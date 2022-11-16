@@ -34,7 +34,7 @@ func Run() {
 }
 
 func Send() {
-	bot, err := tgbotapi.NewBotAPI("5673296847:AAE2Z2Bz1uFt1SVL6O3r3khshGBbAnbbHeg")
+	bot, err := tgbotapi.NewBotAPI("5673296847:AAE-------GBbAnbbHeg")
 	if err != nil {
 		log.Panic(err)
 	}
